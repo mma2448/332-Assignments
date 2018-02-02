@@ -1,0 +1,1 @@
+The files in this repository are from projects assigned in my CSE 332 course. The structures require supplemental classes from my project packages that are not included in this repository, thus are unable to run. The purpose of this repository is solely to showcase my work to possible employers.
